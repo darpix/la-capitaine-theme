@@ -22,3 +22,24 @@ Applying the La Capitaine or La Capitaine Dark look and feel will not activate t
 > Menu: Lato 10
 >
 > Window title: Lato 10 semibold
+
+# What will be installed
+
+La Capitaine and La Capitaine Dark color schemes
+
+La Capitaine and La Capitaine Dark desktop themes
+
+La Capitaine icons (this will install a separate icon theme if you already have the La Capitaine icons)
+
+Capitaine Cursors (this will install a separate icon theme if you already have Capitaine Cursors)
+
+Lato font pack
+
+Customized Latte layout designed for La Capitaine
+
+SierraBreeze KDE window decorations
+
+La Capitaine and La Capitaine Dark look and feel themes
+
+# Other notes
+Download the uninstall.sh script and run it as root to delete the theme, icon, cursor, and color files. It will leave the Lato font pack, SierraBreeze, and the Latte layout.
