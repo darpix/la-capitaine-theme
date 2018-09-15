@@ -10,4 +10,4 @@ cd la-capitaine-theme
 sh install.sh
 rm -rf ~/.la-capitaine-tmp/
 cd $directory
-rm install-lc.sh
+rm la-capitaine
