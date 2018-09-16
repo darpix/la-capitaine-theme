@@ -42,4 +42,8 @@ SierraBreeze KDE window decorations
 La Capitaine and La Capitaine Dark look and feel themes
 
 # Other notes
-Download the uninstall.sh script and run it as root to delete the theme, icon, cursor, and color files. It will leave the Lato font pack, SierraBreeze, and the Latte layout.
+Run
+
+`wget https://github.com/darpix/la-capitaine-theme/raw/master/uninstall.sh && sudo sh uninstall.sh`
+
+to delete the theme, icon, cursor, and color files. It will leave the Lato font pack, SierraBreeze, and the Latte layout.
