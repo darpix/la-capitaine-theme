@@ -17,6 +17,6 @@ sh install.sh
 echo "La Capitaine has been installed!"
 echo "Cleaning up..."
 rm -rf ~/.la-capitaine-tmp/
-cd PWD
+cd $directory
 rm la-capitaine
 echo "Done."
