@@ -18,5 +18,5 @@ echo "La Capitaine has been installed!"
 echo "Cleaning up..."
 rm -rf ~/.la-capitaine-tmp/
 cd $directory
-rm la-capitaine
+rm la-capitaine-theme
 echo "Done."
